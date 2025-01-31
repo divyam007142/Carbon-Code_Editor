@@ -8,9 +8,9 @@
     "url": "git+https://github.com/carbon-app/carbon.git"
   },
   "bugs": {
-    "url": "https://github.com/carbon-app/carbon/issues"
+    "url": "https://github.com/Carbon-Code_Editor/carbon/issues"
   },
-  "homepage": "https://carbon.now.sh",
+  "homepage": "https://carbon-editor.netlify.app/",
   "engines": {
     "node": ">=12"
   },
